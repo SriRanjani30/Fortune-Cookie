@@ -1,5 +1,5 @@
 🍪 Fortune Cookie App
-Crack open a virtual fortune cookie and reveal an inspiring message! This Java Swing app brings the joy of fortune cookies to your desktop, complete with a beautifully themed background, a floating rounded button, and dozens of unique fortunes to brighten your day.
+Crack open a virtual fortune cookie and reveal an inspiring message! This Java Swing app brings the joy of fortune cookies to your desktop, complete with a beautifully themed background, a floating rounded button, and dozens of unique fortunes to brighten your day. This app was completely built using Java.
 
 ✨ Features:
 
