@@ -10,3 +10,5 @@ Crack open a virtual fortune cookie and reveal an inspiring message! This Java S
 
 Perfect for Java beginners to practice GUIs, events, and creative styling!
 Note: I have used AI to create this Readme Note!
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
